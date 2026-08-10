@@ -1,0 +1,11 @@
+// just run these steps for window linux in most case it does works otherwise gpt or gemini the README.md file it will tell you
+# python -m venv venv
+# source venv/bin/activate 
+# pip install -r requirements.txt
+# python run.py      
+
+opencv-python>=4.8
+mediapipe>=0.10.30
+numpy>=1.24,<2.0
+
+
