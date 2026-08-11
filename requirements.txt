@@ -1,4 +1,3 @@
-// just run these steps for window linux in most case it does works otherwise gpt or gemini the README.md file it will tell you
 # python -m venv venv
 # source venv/bin/activate 
 # pip install -r requirements.txt
